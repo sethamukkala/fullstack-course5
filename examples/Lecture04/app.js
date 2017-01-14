@@ -1,6 +1,6 @@
 (function () {
 'use strict';
-x="one"
+x="one";
 
 angular.module('myFirstApp', [])
 
